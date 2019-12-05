@@ -5,6 +5,7 @@ from django.test import TestCase
 # test
 
 # 国产
+# 日韩
 # 欧美
 # 在线播放
 
