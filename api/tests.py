@@ -5,12 +5,6 @@ from django.test import TestCase
 # test
 
 # 国产
+# 日韩
 # 欧美
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-# 在线播放1
->>>>>>> Stashed changes
-=======
-# 在线播放1
->>>>>>> dev
+
